@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SachinsinghSoun
 - 👀 I’m interested in Analysing data and providing actionable insights
-- 🌱 I’m currently working on deep learning
+- 🌱 I’m currently working on Data Science Projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/sachinsingh-soun
 
